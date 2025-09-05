@@ -1,4 +1,4 @@
-data = "Aloha!"
+data = "Я вроде все так сделал!)"
 data1 = data.replace(" ","")
 data2 = len(data1)
 
