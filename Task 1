@@ -3,3 +3,5 @@ data1 = data.replace(" ","")
 data2 = len(data1)
 
 print(data2)
+
+#Сложность алгоритма O(n)
